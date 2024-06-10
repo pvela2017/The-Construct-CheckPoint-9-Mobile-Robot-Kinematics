@@ -65,6 +65,6 @@ The purpose of this project is create a package that calculates the kinematics o
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- KEYS -->
-## Key topics learnt
+## Key Topics Learnt
 * Kinematics.
 * PID.
